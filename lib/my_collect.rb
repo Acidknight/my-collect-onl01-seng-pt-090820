@@ -1,4 +1,6 @@
 names = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
-def
+def my_collect(array)
+  
+end
 
